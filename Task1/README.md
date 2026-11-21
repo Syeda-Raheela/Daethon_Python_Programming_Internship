@@ -20,6 +20,3 @@ A console-based Hangman word guessing game written in Python.
 ```
 python hangman.py
 ```
-
-## Concepts used
-Loops, lists, strings, functions, conditions, and the `random` module.
